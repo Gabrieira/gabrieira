@@ -1,7 +1,7 @@
 🚀 Skills 
 <div style="display: inline_block">
 <a href="https://github.com/gabrieira">
-<img align="center" alt="C-Sharp" src="https://respondecodigosblog.files.wordpress.com/2017/08/c2.png?w=225">
+<img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-0c6305?style=for-the-badge&logo=c-sharp&logoColor=white%22">
 <img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <!-- <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-5C2D91?style=for-the-badge&logo=ruby&logoColor=white"> -->
 </div><br/>
