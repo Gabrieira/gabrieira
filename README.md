@@ -24,6 +24,6 @@
 <div style="display: inline_block">
 <a href="mailto:gabrielhgco@gmail.com"> 
 <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-0c6305?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="mailto:gabrielhgco@gmail.com"> 
+<a href="mailto:gabrielhgco@outlook.com"> 
 <img align="center" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-5C2D91?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </div>
